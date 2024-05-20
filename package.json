@@ -2,14 +2,22 @@
   "name": "connect4",
   "version": "1.0.0",
   "description": "A javascript implementation of Connect 4 game",
-  "main": "game.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "author": "Emilien Cosson <emilien@em-ilien.fr>",
+  "license": "MIT",
+  "homepage": "https://github.com/Em-ilien/connect4.js",
   "keywords": [
     "Connect4",
     "Puissance4"
   ],
-  "author": "Emilien Cosson",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Em-ilien/connect4.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Em-ilien/connect4.js/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
