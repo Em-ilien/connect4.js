@@ -1,0 +1,15 @@
+{
+  "name": "connect4",
+  "version": "1.0.0",
+  "description": "A javascript implementation of Connect 4 game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Connect4",
+    "Puissance4"
+  ],
+  "author": "Emilien Cosson",
+  "license": "MIT"
+}
