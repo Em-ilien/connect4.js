@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Em-ilien/connect4.js/issues"
   },
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
